@@ -88,7 +88,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url("image.png")no-repeat;
+  background: url("https://res.cloudinary.com/dknfr4h0g/image/upload/v1710341186/IMG20230117131355_vljrgo.jpg")no-repeat;
   background-size: contain;
   background-position: right;
 }
